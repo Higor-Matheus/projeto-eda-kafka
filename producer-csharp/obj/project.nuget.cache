@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEj5IUnKQXY=",
+  "success": true,
+  "projectFilePath": "C:\\Trabalho\\projeto-eda-kafka\\producer-csharp\\producer-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\confluent.kafka\\2.16.0\\confluent.kafka.2.16.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\librdkafka.redist\\2.16.0\\librdkafka.redist.2.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
